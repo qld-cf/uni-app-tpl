@@ -1,0 +1,24 @@
+.zaiui-cart-view-box {
+  padding: 36.36rpx 27rpx;
+}
+.zaiui-cart-view-box .card-view {
+  position: relative;
+  border-radius: 18.18rpx;
+}
+.zaiui-cart-view-box .card-view .head-img {
+  width: 100%;
+  height: 236.36rpx;
+  border-radius: 9rpx 9rpx 0 0;
+}
+.zaiui-cart-view-box .card-view .zaiui-content-view {
+  padding: 27rpx;
+}
+.zaiui-cart-view-box .card-view .zaiui-content-view .view-text-box {
+  position: relative;
+}
+.zaiui-cart-view-box .card-view .zaiui-content-view .view-text-box .cuIcon-right {
+  position: absolute;
+  top: 5.45rpx;
+  right: 0;
+}
+

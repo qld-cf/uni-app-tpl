@@ -1,0 +1,29 @@
+page {
+  background: #FFFFFF;
+}
+.zaiui-title-view {
+  position: relative;
+  padding: 18.18rpx;
+}
+.zaiui-content-view {
+  position: relative;
+  padding: 0 18.18rpx;
+}
+.cu-form-view {
+  position: relative;
+  margin: 0 27rpx;
+  padding: 18.18rpx 0;
+  border-bottom: 2rpx solid rgba(0, 0, 0, 0.1);
+}
+.cu-form-view.margin-top-lg {
+  margin-top: 40rpx;
+}
+.zaiui-btn-view {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+.zaiui-btn-view .flex {
+  padding: 18.18rpx;
+}
+

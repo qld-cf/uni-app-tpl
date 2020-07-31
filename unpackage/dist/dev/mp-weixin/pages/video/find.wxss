@@ -1,0 +1,101 @@
+.zaiui-bar-search-title-box .cu-bar {
+  padding-top: 25px;
+  min-height: calc(25px + 101rpx);
+}
+.zaiui-bar-search-title-box .cu-bar .content {
+  top: 25px;
+  width: calc(100% - 181rpx);
+}
+.zaiui-bar-search-title-box .cu-bar .search-form [class*="cuIcon-"] {
+  margin: 0 0.8em 0 0.8em;
+}
+.zaiui-bar-search-title-box .cu-bar .search-form {
+
+  margin-right: 181rpx;
+
+  margin-left: 9rpx;
+}
+.zaiui-bar-search-title-box .cu-bar .search-form .close-icon {
+  font-size: 29rpx;
+}
+.zaiui-bar-search-title-box .cu-bar.fixed.no-shadow {
+  box-shadow: inherit;
+}
+.zaiui-bar-search-title-box .cu-bar.bg-white {
+  color: #333333;
+}
+.zaiui-bar-search-title-box .zaiui-seat-height {
+  width: 100%;
+  height: calc(25px + 101rpx);
+}
+.zaiui-search-list-view {
+  position: relative;
+  width: 100%;
+}
+.zaiui-search-list-view .search-list-view .search-bar-view {
+  position: relative;
+  margin-bottom: 18.18rpx;
+  width: 100%;
+}
+.zaiui-search-list-view .search-list-view .search-bar-view .icon-right {
+  position: absolute;
+  right: 0;
+  top: 5.45rpx;
+}
+.zaiui-search-list-view .search-list-view .search-bar-view .text-right {
+  position: absolute;
+  right: 0;
+  top: 4rpx;
+}
+.zaiui-search-list-view .search-list-view .search-bar-view .text-right text + text {
+  margin-left: 27rpx;
+}
+.zaiui-search-list-view .search-list-view .btn-view {
+  position: relative;
+  padding-bottom: 36.36rpx;
+  width: 100%;
+}
+.zaiui-search-list-view .search-list-view .btn-view .cu-btn {
+  color: #333333;
+  height: 54.54rpx;
+  font-size: 23.63rpx;
+  margin-right: 27rpx;
+  margin-bottom: 18.18rpx;
+}
+.zaiui-search-list-view .search-list-view .btn-view .cu-btn .close-icon {
+  top: 0;
+  color: #9c9797;
+  right: -9rpx;
+  position: absolute;
+  font-size: 27rpx;
+}
+
+.zaiui-find-box.data-v-4244d186 {
+  display: none;
+}
+.zaiui-find-box.show.data-v-4244d186 {
+  display: block;
+}
+.zaiui-title-tab-box.data-v-4244d186 {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 999999;
+  padding: calc(25px + 9rpx) 27rpx 9rpx 9rpx;
+}
+.zaiui-title-tab-box .flex .basis-l.data-v-4244d186 {
+  -webkit-flex-basis: 70%;
+          flex-basis: 70%;
+}
+.zaiui-title-tab-box .flex .basis-s.data-v-4244d186 {
+  -webkit-flex-basis: 30%;
+          flex-basis: 30%;
+}
+.zaiui-seat-height.data-v-4244d186 {
+  width: 100%;
+  margin-top: calc(25px + 185rpx);
+}
+.zaiui-view-content.data-v-4244d186 {
+  padding: 0 27rpx 54.54rpx;
+}
+

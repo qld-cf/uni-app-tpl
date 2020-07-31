@@ -1,0 +1,47 @@
+.zaiui-goods-list-box.data-v-a5082fb2 {
+  display: none;
+}
+.zaiui-goods-list-box .cu-list.menu-avatar > .cu-item.data-v-a5082fb2 {
+  height: 218.18rpx;
+}
+.zaiui-goods-list-box .cu-list.menu-avatar > .cu-item.data-v-a5082fb2:after {
+  width: 0;
+  height: 0;
+  border-bottom: 0;
+}
+.zaiui-goods-list-box .cu-list.menu-avatar > .cu-item .cu-avatar.lg.data-v-a5082fb2 {
+  width: 181rpx;
+  height: 181rpx;
+  font-size: 2em;
+}
+.zaiui-goods-list-box .cu-list.menu-avatar > .cu-item .content.data-v-a5082fb2 {
+  left: 236.36rpx;
+  width: calc(100% - 94rpx - 59rpx - 119rpx);
+  line-height: 1.7em;
+}
+.zaiui-goods-list-box .cu-list.menu-avatar > .cu-item .content .cu-tag.sm.data-v-a5082fb2 {
+  display: inline-block;
+  margin-left: 0;
+  height: 29rpx;
+  font-size: 14.54rpx;
+  line-height: 29rpx;
+  margin-right: 9rpx;
+  margin-bottom: 9rpx;
+}
+.zaiui-goods-list-box .cu-list.menu-avatar > .cu-item .content view.data-v-a5082fb2:first-child {
+  font-size: 29rpx;
+  display: inherit;
+  -webkit-box-align: inherit;
+  -webkit-align-items: inherit;
+          align-items: inherit;
+}
+.zaiui-goods-list-box .cu-list.menu-avatar > .cu-item .content .through.data-v-a5082fb2 {
+  text-decoration: line-through;
+}
+.zaiui-goods-list-box .cu-list.menu-avatar > .cu-item .content .zaiui-tag-view text.data-v-a5082fb2 {
+  margin-right: 9rpx;
+}
+.zaiui-goods-list-box.show.data-v-a5082fb2 {
+  display: block;
+}
+

@@ -1,0 +1,45 @@
+.zaiui-topic-grid-box.data-v-bb8294d0 {
+  position: relative;
+  width: 100%;
+}
+.zaiui-topic-grid-box .scroll-view.data-v-bb8294d0 {
+  position: relative;
+  height: 118.18rpx;
+  white-space: nowrap;
+  width: 100%;
+}
+.zaiui-topic-grid-box .scroll-view .scroll-item.data-v-bb8294d0 {
+  display: inline-block;
+  position: relative;
+  border-radius: 9rpx;
+  margin: 0 9rpx;
+  width: 172.72rpx;
+}
+.zaiui-topic-grid-box .scroll-view .scroll-item.data-v-bb8294d0:first-child {
+  margin-left: 27rpx;
+}
+.zaiui-topic-grid-box .scroll-view .scroll-item.data-v-bb8294d0:last-child {
+  margin-right: 27rpx;
+}
+.zaiui-topic-grid-box .scroll-view .scroll-item .cu-avatar.data-v-bb8294d0 {
+  width: 172.72rpx;
+  height: 118.18rpx;
+  border-radius: 9rpx;
+}
+.zaiui-topic-grid-box .scroll-view .scroll-item .bg-shade.data-v-bb8294d0 {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 9rpx;
+}
+.zaiui-topic-grid-box .scroll-view .scroll-item .text.data-v-bb8294d0 {
+  position: absolute;
+  bottom: 0;
+  color: #fff;
+  padding: 14.54rpx 18.18rpx;
+  width: 100%;
+}
+

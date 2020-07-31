@@ -1,0 +1,27 @@
+.zaiui-bar-title-box .cu-bar.data-v-5bc543f6 {
+  padding-top: 25px;
+  min-height: calc(25px + 101rpx);
+}
+.zaiui-bar-title-box .cu-bar .content.data-v-5bc543f6 {
+  top: 25px;
+}
+.zaiui-bar-title-box .cu-bar .content .cu-tag.data-v-5bc543f6 {
+  position: relative;
+  top: -2.72rpx;
+  padding: 0 5.45rpx;
+}
+.zaiui-bar-title-box .cu-bar .content .cu-tag text.data-v-5bc543f6 {
+  position: relative;
+  top: 2rpx;
+}
+.zaiui-bar-title-box .cu-bar.fixed.no-shadow.data-v-5bc543f6 {
+  box-shadow: inherit;
+}
+.zaiui-bar-title-box .cu-bar.bg-white.data-v-5bc543f6 {
+  color: #333333;
+}
+.zaiui-bar-title-box .zaiui-seat-height.data-v-5bc543f6 {
+  width: 100%;
+  height: calc(25px + 101rpx);
+}
+

@@ -1,0 +1,78 @@
+.zaiui-topic-card-list-box.data-v-bd1e2de4 {
+  position: relative;
+  border-radius: 18.18rpx;
+  padding-bottom: 27rpx;
+  width: 100%;
+}
+.zaiui-topic-card-list-box .head-img-box.data-v-bd1e2de4 {
+  position: relative;
+  width: 100%;
+}
+.zaiui-topic-card-list-box .head-img-box .cu-avatar.data-v-bd1e2de4 {
+  width: 100%;
+  height: 181rpx;
+  border-radius: 9rpx 9rpx 0 0;
+}
+.zaiui-topic-card-list-box .head-img-box .bg-shade.data-v-bd1e2de4 {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 9rpx 9rpx 0 0;
+}
+.zaiui-topic-card-list-box .head-img-box .zaiui-text.data-v-bd1e2de4 {
+  position: absolute;
+  bottom: 0;
+  color: #fff;
+  padding: 18.18rpx 23.63rpx;
+  width: 100%;
+}
+.zaiui-topic-card-list-box .head-img-box .zaiui-text .text.data-v-bd1e2de4 {
+  margin-top: 5.45rpx;
+}
+.zaiui-topic-card-list-box .cu-list.menu-avatar > .cu-item > .cu-avatar.data-v-bd1e2de4 {
+  left: 27rpx;
+  width: 81.81rpx;
+  height: 81.81rpx;
+  border-radius: 9rpx;
+}
+.zaiui-topic-card-list-box .cu-list.menu-avatar > .cu-item.data-v-bd1e2de4 {
+  height: 109rpx;
+}
+.zaiui-topic-card-list-box .cu-list.menu-avatar > .cu-item.data-v-bd1e2de4:after {
+  width: 0;
+  height: 0;
+  border-bottom: 0;
+}
+.zaiui-topic-card-list-box .cu-list.menu-avatar > .cu-item .corner-mark.data-v-bd1e2de4 {
+  position: absolute;
+  width: 29rpx;
+  height: 29rpx;
+  text-align: center;
+  line-height: 29rpx;
+  top: 14.54rpx;
+  left: 27rpx;
+  border-radius: 7.27rpx 0 9rpx;
+  color: #fff;
+  background-image: -webkit-linear-gradient(320deg, #F2F2F2, #B4B4B5);
+  background-image: linear-gradient(130deg, #F2F2F2, #B4B4B5);
+}
+.zaiui-topic-card-list-box .cu-list.menu-avatar > .cu-item .corner-mark.one.data-v-bd1e2de4 {
+  background-image: -webkit-linear-gradient(320deg, #FF8388, #FF5861);
+  background-image: linear-gradient(130deg, #FF8388, #FF5861);
+}
+.zaiui-topic-card-list-box .cu-list.menu-avatar > .cu-item .corner-mark.two.data-v-bd1e2de4 {
+  background-image: -webkit-linear-gradient(320deg, #FF9D5C, #FF6E30);
+  background-image: linear-gradient(130deg, #FF9D5C, #FF6E30);
+}
+.zaiui-topic-card-list-box .cu-list.menu-avatar > .cu-item .corner-mark.three.data-v-bd1e2de4 {
+  background-image: -webkit-linear-gradient(320deg, #FFCF86, #FFA93B);
+  background-image: linear-gradient(130deg, #FFCF86, #FFA93B);
+}
+.zaiui-topic-card-list-box .cu-list.menu-avatar > .cu-item .content.data-v-bd1e2de4 {
+  left: 136rpx;
+  width: calc(100% - 136rpx - 27rpx);
+}
+

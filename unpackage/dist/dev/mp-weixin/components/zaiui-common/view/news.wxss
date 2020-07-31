@@ -1,0 +1,45 @@
+.zaiui-sell-box.data-v-30b7a6ea {
+  background: #FAFAFA;
+  position: relative;
+  min-height: 100vh;
+  z-index: 99999;
+  width: 100%;
+  display: none;
+}
+.zaiui-sell-box .zaiui-bar-view-box.data-v-30b7a6ea {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999999;
+  background: #FAFAFA;
+  height: calc(25px + 189rpx);
+  padding: 25px 27rpx 0 27rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.zaiui-sell-box .zaiui-bar-view-box .zaiui-bar-box.data-v-30b7a6ea {
+  position: relative;
+  width: 100%;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  line-height: 99.99rpx;
+}
+.zaiui-sell-box .zaiui-bar-view-box .zaiui-bar-box .close.data-v-30b7a6ea {
+  position: absolute;
+  right: 27rpx;
+  font-size: 40rpx;
+  bottom: 9rpx;
+}
+.zaiui-sell-box .zaiui-seat-height.data-v-30b7a6ea {
+  width: 100%;
+  height: calc(25px + 199.99rpx);
+}
+.zaiui-sell-box .zaiui-view-content.data-v-30b7a6ea {
+  padding: 0 27rpx 27rpx;
+}
+.zaiui-sell-box.show.data-v-30b7a6ea {
+  display: block;
+}
+

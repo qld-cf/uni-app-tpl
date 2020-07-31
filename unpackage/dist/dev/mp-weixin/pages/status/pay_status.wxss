@@ -1,0 +1,82 @@
+page {
+  background-color: #EFF5F8;
+}
+.zaiui-status-view {
+  position: relative;
+  text-align: center;
+  margin: 90.9rpx 0 54.54rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 116.36rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.zaiui-status-view .status-img {
+  position: absolute;
+  width: 127rpx;
+}
+.zaiui-status-view .status-bg-view {
+  position: relative;
+  border-radius: 50%;
+  border: 6rpx solid #fff;
+  width: 54.54rpx;
+  height: 54.54rpx;
+  top: -63.63rpx;
+  left: 69rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.zaiui-status-view .status-bg-view .icon {
+  font-size: 32.72rpx;
+}
+.zaiui-padding {
+  position: relative;
+  padding: 18.18rpx 63.63rpx;
+}
+.zaiui-btn-view {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.zaiui-btn-view .cu-btn {
+  background: #FFFFFF;
+}
+.zaiui-ad-view {
+  margin-top: 72.72rpx;
+}
+.zaiui-ad-view .qrcode-img-view {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-top: 18.18rpx;
+}
+.zaiui-ad-view .qrcode-img-view .qrcode-img {
+  width: 327rpx;
+  border-radius: 3%;
+}
+

@@ -1,0 +1,45 @@
+.zaiui-modal-box.data-v-428949fb {
+  position: fixed;
+  opacity: 0;
+  top: inherit;
+  left: inherit;
+  right: inherit;
+  bottom: inherit;
+  z-index: 99999999;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  pointer-events: none;
+}
+.zaiui-modal-box.data-v-428949fb::before {
+  content: "\200B";
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+.zaiui-modal-box .dialog.data-v-428949fb {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  width: 618.18rpx;
+}
+.zaiui-modal-box .dialog .img.data-v-428949fb {
+  width: 100%;
+  border-radius: 3%;
+}
+.zaiui-modal-box .dialog .close.data-v-428949fb {
+  color: #dadada;
+  top: 18.18rpx;
+  position: relative;
+  font-size: 54.54rpx;
+}
+.zaiui-modal-box.show.data-v-428949fb {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 1;
+  pointer-events: auto;
+}
+

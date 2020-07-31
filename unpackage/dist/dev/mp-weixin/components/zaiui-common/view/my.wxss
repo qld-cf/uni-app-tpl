@@ -1,0 +1,141 @@
+.zaiui-my-box.data-v-1fbd42e4 {
+  width: 100%;
+  display: none;
+}
+.zaiui-my-box .zaiui-head-box.data-v-1fbd42e4 {
+  padding-top: 0;
+  padding-bottom: 72.72rpx;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box.data-v-1fbd42e4 {
+  padding-top: calc(25px + 50rpx);
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box .login-user-view.data-v-1fbd42e4 {
+  position: relative;
+  text-align: center;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box .login-user-view .login-user-avatar-view.data-v-1fbd42e4 {
+  position: relative;
+  margin-bottom: 18.18rpx;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box .cu-list.menu-avatar > .cu-item.data-v-1fbd42e4 {
+  background-color: inherit;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box .cu-list.menu-avatar > .cu-item .content.data-v-1fbd42e4 {
+  width: calc(100% - 94rpx - 59rpx - 20rpx);
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box .cu-list.menu-avatar > .cu-item .content .text-white-bg.data-v-1fbd42e4 {
+  color: #e8e8e8;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box .cu-list.menu-avatar > .cu-item .content .text-white-bg .text-border-x.data-v-1fbd42e4 {
+  margin-right: 25.45rpx;
+  position: relative;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box .cu-list.menu-avatar > .cu-item .content .text-white-bg .text-border-x.data-v-1fbd42e4:after {
+  position: absolute;
+  background: #dddddd;
+  top: 5.45rpx;
+  width: 1.81rpx;
+  right: -12.72rpx;
+  height: 16.36rpx;
+  content: " ";
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box .cu-list.menu-avatar > .cu-item.data-v-1fbd42e4:after {
+  width: 0;
+  height: 0;
+  border-bottom: 0;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-box .cu-list.menu-avatar > .cu-item .content > view.data-v-1fbd42e4:first-child {
+  font-size: 34.54rpx;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-num-box .cu-list.grid.no-border.data-v-1fbd42e4 {
+  padding: 0;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-num-box .cu-list.grid.no-border > .cu-item.data-v-1fbd42e4 {
+  padding-top: 27rpx;
+  padding-bottom: 9rpx;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-num-box .cu-list.grid.data-v-1fbd42e4 {
+  background-color: inherit;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-num-box .cu-list.grid > .cu-item text.data-v-1fbd42e4 {
+  color: #e8e8e8;
+  font-size: 20rpx;
+  line-height: 27rpx;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-tip-box.data-v-1fbd42e4 {
+  position: relative;
+  margin: 18.18rpx 27rpx;
+  border-radius: 9rpx;
+  padding: 18.18rpx 27rpx;
+  background: #ea8d8d;
+  background-image: -webkit-linear-gradient(45deg, #f7615f, #f553b3);
+  background-image: linear-gradient(45deg, #f7615f, #f553b3);
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-tip-box .text-cut.data-v-1fbd42e4 {
+  padding-right: 45.45rpx;
+}
+.zaiui-my-box .zaiui-head-box .zaiui-user-info-tip-box .icon.data-v-1fbd42e4 {
+  position: absolute;
+  right: 27rpx;
+  top: 23.63rpx;
+}
+.zaiui-my-box .zaiui-view-content.data-v-1fbd42e4 {
+  padding: 0 27rpx 54.54rpx;
+  margin-top: -63.63rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-order-box.data-v-1fbd42e4 {
+  border-radius: 18.18rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-order-box .cu-list.grid.no-border.data-v-1fbd42e4 {
+  padding: 0;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-order-box .cu-list.grid.no-border > .cu-item.data-v-1fbd42e4 {
+  padding-bottom: 9rpx;
+}
+.zaiui-my-box .zaiui-view-content .cu-list.grid > .cu-item text.data-v-1fbd42e4 {
+  color: inherit;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-money-box.data-v-1fbd42e4 {
+  border-radius: 18.18rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-money-box .money-col.data-v-1fbd42e4 {
+  padding: 0 9rpx 9rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-money-box .money-col .money-item.data-v-1fbd42e4 {
+  position: relative;
+  padding: 9rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-money-box .money-col .money-item .money-item-view.data-v-1fbd42e4 {
+  border: 1.81rpx solid #f3f2f3;
+  border-radius: 18.18rpx;
+  position: relative;
+  padding: 9rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-money-box .money-col .money-item .money-item-view .cu-avatar.data-v-1fbd42e4 {
+  position: absolute;
+  left: 9rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-money-box .money-col .money-item .money-item-view .money-content.data-v-1fbd42e4 {
+  position: relative;
+  margin-left: 109rpx;
+  margin-bottom: 27rpx;
+  top: 12.72rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-tools-box.data-v-1fbd42e4 {
+  border-radius: 18.18rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-tools-box .tools-view.data-v-1fbd42e4 {
+  position: relative;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-tools-box .tools-view .tools-title.data-v-1fbd42e4 {
+  padding-right: 81.81rpx;
+}
+.zaiui-my-box .zaiui-view-content .zaiui-user-info-tools-box .tools-view .tools-right.data-v-1fbd42e4 {
+  position: absolute;
+  right: 9rpx;
+  bottom: 23.63rpx;
+}
+.zaiui-my-box.show.data-v-1fbd42e4 {
+  display: block;
+}
+

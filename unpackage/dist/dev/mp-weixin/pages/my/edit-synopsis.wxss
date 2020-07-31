@@ -1,0 +1,9 @@
+.cu-form-group textarea {
+  height: 8.6em;
+}
+.cu-form-group .font-num-view {
+  position: absolute;
+  bottom: 9rpx;
+  right: 27rpx;
+}
+

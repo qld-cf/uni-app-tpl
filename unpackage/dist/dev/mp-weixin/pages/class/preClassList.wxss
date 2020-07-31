@@ -1,0 +1,72 @@
+.wecanui-footer-fixed .flex-direction {
+  padding: 18.18rpx;
+}
+
+.zaiui-news-box.data-v-736da543 {
+  width: 100%;
+  display: none;
+}
+.zaiui-news-box .zaiui-follow-box .action-text-cut.data-v-736da543 {
+  width: 70%;
+}
+.zaiui-news-box .zaiui-grid-menu .cu-list.grid.no-border > .cu-item .cu-avatar.data-v-736da543 {
+  margin: 0 auto;
+}
+.zaiui-news-box .zaiui-news-list-box.data-v-736da543 {
+  padding: 0 9.09rpx;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item > .cu-avatar.data-v-736da543 {
+  width: 81.81rpx;
+  height: 81.81rpx;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item.data-v-736da543 {
+  height: 163.63rpx;
+  -webkit-box-align: inherit;
+  -webkit-align-items: inherit;
+          align-items: inherit;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item .cu-avatar.data-v-736da543 {
+  margin-top: 25.45rpx;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item .cu-avatar .cu-tag.badge.data-v-736da543 {
+  width: 21.81rpx;
+  height: 21.81rpx;
+  top: 0;
+  right: 0;
+  border: 1.81rpx solid #fff;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item .content.data-v-736da543 {
+  left: 136.36rpx;
+  margin-top: 18.18rpx;
+  width: calc(100% - 90.9rpx - 54.54rpx - 18.18rpx);
+  line-height: 1.7em;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item .content .cu-tag.data-v-736da543 {
+  padding: 0 3.63rpx;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item .content .cu-tag text.data-v-736da543 {
+  position: relative;
+  top: -2rpx;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item.data-v-736da543:after {
+  width: 0;
+  height: 0;
+  border-bottom: 0;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item.goods .content.data-v-736da543 {
+  width: calc(100% - 309.09rpx);
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item.goods .action.data-v-736da543 {
+  position: absolute;
+  right: 23.63rpx;
+  width: 127.27rpx;
+}
+.zaiui-news-box .zaiui-news-list-box .cu-list.menu-avatar > .cu-item.goods .action .cu-avatar.data-v-736da543 {
+  width: 127.27rpx;
+  height: 127.27rpx;
+  margin-top: 18.18rpx;
+}
+.zaiui-news-box.show.data-v-736da543 {
+  display: block;
+}
+

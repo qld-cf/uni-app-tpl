@@ -1,0 +1,139 @@
+@font-face {
+  font-family: 'bobo-message-iconfont';
+  /* project id 1477381 */
+  src: url("https://at.alicdn.com/t/font_1477381_i3ji49ios6.eot");
+  src: url("https://at.alicdn.com/t/font_1477381_i3ji49ios6.eot?#iefix") format("embedded-opentype"), url("https://at.alicdn.com/t/font_1477381_i3ji49ios6.woff2") format("woff2"), url("https://at.alicdn.com/t/font_1477381_i3ji49ios6.woff") format("woff"), url("https://at.alicdn.com/t/font_1477381_i3ji49ios6.ttf") format("truetype"), url("https://at.alicdn.com/t/font_1477381_i3ji49ios6.svg#iconfont") format("svg");
+}
+.container.data-v-9a5643f8 {
+  left: 0;
+  right: 0;
+  top: calc(25px + 24px);
+  min-width: 10rpx;
+  max-width: 550rpx;
+  position: fixed;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  pointer-events: none;
+}
+.container .message.data-v-9a5643f8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  pointer-events: all;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 8px 16px;
+  border-radius: 4px;
+  margin-top: 5px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+  background: #fff;
+  min-height: 37px;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  box-sizing: border-box;
+}
+.container .message .bm-icon.data-v-9a5643f8 {
+  font-family: bobo-message-iconfont;
+  margin-right: 10rpx;
+}
+.container .message .info.data-v-9a5643f8 {
+  color: #288ced;
+}
+.container .message .success.data-v-9a5643f8 {
+  color: #e54d42;
+}
+.container .message .warn.data-v-9a5643f8 {
+  color: #ff991f;
+}
+.container .message .error.data-v-9a5643f8 {
+  color: #ef4017;
+}
+.container .background-info.data-v-9a5643f8 {
+  border: 2px solid #d4eefe;
+  background: #f0faff;
+  color: #288ced;
+  box-shadow: none !important;
+}
+.container .background-success.data-v-9a5643f8 {
+  border: 2px solid #baf2d1;
+  background: #edfff4;
+  color: #09be70;
+  box-shadow: none !important;
+}
+.container .background-warn.data-v-9a5643f8 {
+  border: 2px solid #ffe7a7;
+  background: #fff9e7;
+  color: #ff991f;
+  box-shadow: none !important;
+}
+.container .background-error.data-v-9a5643f8 {
+  border: 2px solid #ffcfb9;
+  background: #ffefe6;
+  color: #ef4017;
+  box-shadow: none !important;
+}
+.container .fadeIn.data-v-9a5643f8 {
+  -webkit-animation: fadeIn-data-v-9a5643f8 0.4s both;
+          animation: fadeIn-data-v-9a5643f8 0.4s both;
+}
+@-webkit-keyframes fadeIn-data-v-9a5643f8 {
+from {
+    opacity: 0;
+    -webkit-transform: translate(0, -30px);
+            transform: translate(0, -30px);
+}
+to {
+    opacity: 1;
+    -webkit-transform: translate(0, 0);
+            transform: translate(0, 0);
+}
+}
+@keyframes fadeIn-data-v-9a5643f8 {
+from {
+    opacity: 0;
+    -webkit-transform: translate(0, -30px);
+            transform: translate(0, -30px);
+}
+to {
+    opacity: 1;
+    -webkit-transform: translate(0, 0);
+            transform: translate(0, 0);
+}
+}
+.container .fadeOut.data-v-9a5643f8 {
+  -webkit-animation: fadeOut-data-v-9a5643f8 0.4s forwards;
+          animation: fadeOut-data-v-9a5643f8 0.4s forwards;
+}
+@-webkit-keyframes fadeOut-data-v-9a5643f8 {
+from {
+    opacity: 1;
+    -webkit-transform: translate(0, 0);
+            transform: translate(0, 0);
+}
+to {
+    opacity: 0;
+    margin-top: -37px;
+}
+}
+@keyframes fadeOut-data-v-9a5643f8 {
+from {
+    opacity: 1;
+    -webkit-transform: translate(0, 0);
+            transform: translate(0, 0);
+}
+to {
+    opacity: 0;
+    margin-top: -37px;
+}
+}
+

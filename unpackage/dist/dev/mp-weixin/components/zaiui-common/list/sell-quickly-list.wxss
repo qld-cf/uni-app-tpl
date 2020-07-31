@@ -1,0 +1,64 @@
+.zaiui-sell-quickly-box .live-box.data-v-2eddda1d {
+  position: relative;
+}
+.zaiui-sell-quickly-box .live-box .flex-wrap.data-v-2eddda1d {
+  background-color: #FAFAFA;
+  border-radius: 16rpx 16rpx;
+}
+.zaiui-sell-quickly-box .live-box .flex-wrap .basis-xs.data-v-2eddda1d {
+  -webkit-flex-basis: 30%;
+          flex-basis: 30%;
+  width: 30%;
+}
+.zaiui-sell-quickly-box .live-box .flex-wrap .basis-xs .img.data-v-2eddda1d {
+  width: 100%;
+  border-radius: 25%;
+}
+.zaiui-sell-quickly-box .live-box .flex-wrap .basis-xl.data-v-2eddda1d {
+  -webkit-flex-basis: 70%;
+          flex-basis: 70%;
+  width: 70%;
+}
+.zaiui-sell-quickly-box .user-list-box .swiper.data-v-2eddda1d {
+  height: 92rpx;
+}
+.zaiui-sell-quickly-box .user-list-box .swiper swiper-item.data-v-2eddda1d {
+  height: 46rpx !important;
+}
+.zaiui-sell-quickly-box .user-list-box .swiper swiper-item .swiper-padding.data-v-2eddda1d {
+  padding: 4rpx 0;
+}
+.zaiui-sell-quickly-box .user-list-box .swiper swiper-item .swiper-item.data-v-2eddda1d {
+  border-radius: 37rpx 37rpx;
+  opacity: .5;
+  -webkit-transition: opacity .2s;
+  transition: opacity .2s;
+}
+.zaiui-sell-quickly-box .user-list-box .swiper swiper-item .swiper-item .img.data-v-2eddda1d {
+  width: 37rpx !important;
+  border-radius: 100% !important;
+}
+.zaiui-sell-quickly-box .user-list-box .swiper swiper-item .swiper-item .basis-xs.data-v-2eddda1d {
+  -webkit-flex-basis: 24%;
+          flex-basis: 24%;
+  width: 24%;
+}
+.zaiui-sell-quickly-box .user-list-box .swiper swiper-item .swiper-item .basis-xl.data-v-2eddda1d {
+  line-height: 37rpx;
+  -webkit-flex-basis: 76%;
+          flex-basis: 76%;
+  width: 76%;
+}
+.zaiui-sell-quickly-box .user-list-box .swiper swiper-item .swiper-item .basis-xl text.data-v-2eddda1d {
+  color: #838383;
+  margin-left: 6rpx;
+}
+.zaiui-sell-quickly-box .user-list-box .swiper swiper-item .swiper-item.show.data-v-2eddda1d {
+  opacity: 1;
+  -webkit-transition: opacity .2s;
+  transition: opacity .2s;
+}
+.zaiui-sell-quickly-box .zaiui-sell-quickly-list .img.data-v-2eddda1d {
+  width: 101rpx;
+}
+

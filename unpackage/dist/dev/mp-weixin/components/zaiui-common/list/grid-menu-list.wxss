@@ -1,0 +1,56 @@
+.zaiui-scroll-view-box.data-v-f3da26b8 {
+  position: relative;
+}
+.zaiui-scroll-view-box .zaiui-scroll-view.data-v-f3da26b8 {
+  position: relative;
+  height: 388rpx;
+  white-space: nowrap;
+  width: 100%;
+}
+.zaiui-scroll-view-box .zaiui-scroll-view .zaiui-scroll-view-item.data-v-f3da26b8 {
+  display: inline-block;
+  width: 100%;
+}
+.zaiui-scroll-view-box .zaiui-scroll-view .zaiui-scroll-view-item .cu-list.grid.data-v-f3da26b8 {
+  background-color: inherit;
+}
+.zaiui-scroll-view-box .zaiui-scroll-view .zaiui-scroll-view-item .cu-list.grid .grid-icon.data-v-f3da26b8 {
+  margin: 0 30rpx;
+}
+.zaiui-scroll-view-box .zaiui-scroll-view .zaiui-scroll-view-item .cu-list.grid .grid-icon .icon.data-v-f3da26b8 {
+  border-radius: 100%;
+}
+.zaiui-scroll-view-box .zaiui-scroll-view .zaiui-scroll-view-item .cu-list.grid > .cu-item text.data-v-f3da26b8 {
+  color: #333333;
+}
+.zaiui-scroll-view-box .zaiui-scroll-view .zaiui-scroll-view-item .cu-list.grid > .cu-item .cu-tag.data-v-f3da26b8 {
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+}
+.zaiui-scroll-view-box .zaiui-scroll-h-view.data-v-f3da26b8 {
+  position: absolute;
+  height: 10rpx;
+  bottom: 2rpx;
+  left: 0;
+  right: 0;
+  width: 32px;
+  margin: auto;
+}
+.zaiui-scroll-view-box .zaiui-scroll-h-view .box.data-v-f3da26b8 {
+  position: relative;
+  background: #d0cfcf;
+  border-radius: 40rpx;
+  width: 100%;
+  height: 100%;
+}
+.zaiui-scroll-view-box .zaiui-scroll-h-view .box .dot.data-v-f3da26b8 {
+  position: absolute;
+  width: 16px;
+  height: 100%;
+  border-radius: 40rpx;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+

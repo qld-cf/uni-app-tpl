@@ -1,0 +1,26 @@
+.zaiui-address-card-view {
+  position: relative;
+  margin: 36.36rpx 27rpx;
+  border-radius: 10.9rpx;
+  padding: 18.18rpx;
+}
+.zaiui-address-card-view .zaiui-line-view {
+  position: relative;
+  background: #f9f9f9;
+  margin-bottom: 20rpx;
+  height: 2rpx;
+}
+.zaiui-address-card-view .zaiui-right-view {
+  position: relative;
+  text-align: right;
+}
+.zaiui-address-card-view .zaiui-right-view text:before {
+  margin-right: 5px;
+}
+.zaiui-address-card-view .zaiui-right-view text + text {
+  margin-left: 20px;
+}
+.wecanui-footer-fixed .flex-direction {
+  padding: 18.18rpx;
+}
+

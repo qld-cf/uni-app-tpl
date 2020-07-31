@@ -1,0 +1,48 @@
+.zaiui-user-login-avatar-view {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  margin-top: 218.18rpx;
+}
+.zaiui-user-login-avatar-view .cu-avatar {
+  width: 181rpx;
+  height: 181rpx;
+}
+.zaiui-btn-view {
+  position: relative;
+  margin-top: 72.72rpx;
+  padding: 0 45.45rpx;
+}
+.zaiui-btn-view .cu-btn .icon {
+  position: relative;
+  font-size: 47.27rpx;
+  right: 9rpx;
+  top: -3.63rpx;
+}
+.zaiui-agreement-checked-view {
+  position: relative;
+  padding: 27rpx 45.45rpx;
+}
+.zaiui-agreement-checked-view .zaiui-checked {
+  position: absolute;
+  -webkit-transform: scale(0.7);
+          transform: scale(0.7);
+}
+.zaiui-agreement-checked-view .text-black-view {
+  padding-left: 54.54rpx;
+  line-height: 47.27rpx;
+}
+.zaiui-foot-ad-view {
+  position: fixed;
+  text-align: center;
+  bottom: 72.72rpx;
+  width: 100%;
+}
+

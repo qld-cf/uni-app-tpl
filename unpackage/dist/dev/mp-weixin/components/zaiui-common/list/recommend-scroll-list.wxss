@@ -1,0 +1,28 @@
+.zaiui-recommend-box.data-v-15899784 {
+  border-radius: 18.18rpx;
+}
+.zaiui-recommend-box .recommend-title .cu-list.menu.data-v-15899784 {
+  border-radius: 18.18rpx;
+}
+.zaiui-recommend-box .recommend-scroll-box.data-v-15899784 {
+  position: relative;
+  width: 100%;
+}
+.zaiui-recommend-box .recommend-scroll-box .recommend-scroll.data-v-15899784 {
+  position: relative;
+  height: 363.63rpx;
+  white-space: nowrap;
+  width: 100%;
+}
+.zaiui-recommend-box .recommend-scroll-box .recommend-scroll .recommend-scroll-item.data-v-15899784 {
+  display: inline-block;
+  padding-top: 27rpx;
+  width: 199.99rpx;
+}
+.zaiui-recommend-box .recommend-scroll-box .recommend-scroll .recommend-scroll-item .cu-btn.data-v-15899784:after {
+  border-radius: 18.18rpx;
+}
+.zaiui-recommend-box .recommend-scroll-box .recommend-scroll .recommend-scroll-item .cu-btn .cuIcon-add.data-v-15899784 {
+  font-size: 27rpx;
+}
+

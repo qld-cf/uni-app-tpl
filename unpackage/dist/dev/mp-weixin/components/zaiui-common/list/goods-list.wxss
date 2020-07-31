@@ -1,0 +1,68 @@
+.zaiui-goods-list-box.data-v-58890254 {
+  position: relative;
+  width: 100%;
+  display: none;
+}
+.zaiui-goods-list-box .list-radius.data-v-58890254 {
+  border-radius: 19rpx;
+}
+.zaiui-goods-list-box .goods-img.data-v-58890254 {
+  position: relative;
+  width: 100%;
+}
+.zaiui-goods-list-box .goods-img image.data-v-58890254 {
+  width: 100%;
+  border-radius: 19rpx 19rpx 0 0;
+}
+.zaiui-goods-list-box .goods-img .pay-view.data-v-58890254 {
+  position: absolute;
+  top: 20rpx;
+  right: 20rpx;
+  font-size: 46rpx;
+}
+.zaiui-goods-list-box .goods-img .service-view.data-v-58890254 {
+  position: absolute;
+  width: 100%;
+  bottom: 7.5rpx;
+  right: 10rpx;
+}
+.zaiui-goods-list-box .goods-img .mold-view.data-v-58890254 {
+  position: absolute;
+  width: 100%;
+  bottom: 7.5rpx;
+  left: 10rpx;
+}
+.zaiui-goods-list-box .text-time.data-v-58890254 {
+  line-height: 47rpx;
+}
+.zaiui-goods-list-box .recommend-list-box .img-aat.data-v-58890254 {
+  width: 55rpx;
+  margin-top: 10rpx;
+}
+.zaiui-goods-list-box .recommend-list-box .img-goods.data-v-58890254 {
+  font-variant: small-caps;
+  margin: 0;
+  padding: 0;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  text-align: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  white-space: nowrap;
+  position: relative;
+  width: 137rpx;
+  height: 137rpx;
+  background-size: cover;
+  background-position: center;
+  vertical-align: middle;
+  border-radius: 12%;
+}
+.zaiui-goods-list-box.show.data-v-58890254 {
+  display: block;
+}
+

@@ -1,0 +1,35 @@
+.zaiui-swiper-background-box.data-v-31043efb {
+  position: absolute;
+  height: 540rpx;
+  width: 100%;
+  top: 0;
+  display: none;
+  -webkit-transition: 0s;
+  transition: 0s;
+}
+.zaiui-swiper-background-box .swiper-background.data-v-31043efb {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  top: 0;
+  background-size: cover;
+  -webkit-transition: opacity .25s;
+  transition: opacity .25s;
+}
+.zaiui-swiper-background-box .swiper-background.show.data-v-31043efb {
+  opacity: 1;
+  -webkit-transition: opacity .25s;
+  transition: opacity .25s;
+}
+.zaiui-swiper-background-box.show.data-v-31043efb {
+  display: block;
+  -webkit-transition: 0s;
+  transition: 0s;
+}
+.zaiui-swiper-background-box.welcome.data-v-31043efb {
+  top: calc(25px + 101rpx);
+  -webkit-transition: top .25s;
+  transition: top .25s;
+}
+

@@ -1,0 +1,22 @@
+.zaiui-identify-box .live-box.data-v-157992f0 {
+  position: relative;
+}
+.zaiui-identify-box .live-box .flex-wrap.data-v-157992f0 {
+  background-color: #FAFAFA;
+  border-radius: 16rpx 16rpx;
+}
+.zaiui-identify-box .live-box .flex-wrap .basis-xs.data-v-157992f0 {
+  -webkit-flex-basis: 30%;
+          flex-basis: 30%;
+  width: 30%;
+}
+.zaiui-identify-box .live-box .flex-wrap .basis-xs .img.data-v-157992f0 {
+  width: 100%;
+  border-radius: 25%;
+}
+.zaiui-identify-box .live-box .flex-wrap .basis-xl.data-v-157992f0 {
+  -webkit-flex-basis: 70%;
+          flex-basis: 70%;
+  width: 70%;
+}
+

@@ -1,0 +1,19 @@
+page {
+  background: #FFFFFF;
+}
+.content-view-box {
+  position: relative;
+}
+.content-view-box .font-view {
+  padding: 18.18rpx;
+  line-height: 1.7;
+}
+.content-view-box image {
+  padding-left: 27rpx;
+  width: 100%;
+}
+.zaiui-hight-view {
+  width: 100%;
+  height: 36.36rpx;
+}
+

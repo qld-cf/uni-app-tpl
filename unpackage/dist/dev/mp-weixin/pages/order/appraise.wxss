@@ -1,0 +1,102 @@
+.zaiui-goods-info-view {
+  position: relative;
+}
+.zaiui-goods-info-view .cu-avatar {
+  position: absolute;
+}
+.zaiui-goods-info-view .goods-info-view {
+  position: relative;
+  padding-left: 112.72rpx;
+  height: 94rpx;
+  line-height: 1.7;
+}
+.zaiui-score-view {
+  position: relative;
+  padding: 25.45rpx 27rpx 0;
+}
+.zaiui-score-view .item-score {
+  position: relative;
+  height: 118.18rpx;
+}
+.zaiui-score-view .item-score .text-view {
+  position: relative;
+  padding-right: 290.9rpx;
+  top: 18.18rpx;
+}
+.zaiui-score-view .item-score .score-img-view {
+  position: absolute;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  right: 0;
+  top: 0;
+}
+.zaiui-score-view .item-score .score-img-view .img-view {
+  position: relative;
+  text-align: center;
+  width: 72.72rpx;
+}
+.zaiui-score-view .item-score .score-img-view .img-view .title {
+  margin-top: 5.45rpx;
+  font-size: 20rpx;
+}
+.zaiui-score-view .item-score .score-img-view .img-view + .img-view {
+  margin-left: 18.18rpx;
+}
+.zaiui-img-view {
+  position: relative;
+  padding: 0 29rpx;
+}
+.zaiui-img-view .img-grid-view {
+  position: relative;
+  padding-right: 72.72rpx;
+  padding-bottom: 18.18rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .bg-img {
+  position: relative;
+  border-radius: 3.63rpx;
+  margin-bottom: 27rpx;
+  margin-right: 27rpx;
+  height: 72.72rpx;
+  width: 72.72rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .bg-img .image {
+  border-radius: 3.63rpx;
+  height: 72.72rpx;
+  width: 72.72rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .bg-img .cu-tag {
+  position: absolute;
+  border-radius: 3.63rpx;
+  padding: 0 1.81rpx;
+  height: auto;
+  right: 0;
+  top: 0;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .bg-img .cu-tag text {
+  position: relative;
+  top: 1.81rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .add-view {
+  border: 2rpx solid #efeeee;
+  margin-bottom: 27rpx;
+  border-radius: 3.63rpx;
+  line-height: 72.72rpx;
+  text-align: center;
+  height: 72.72rpx;
+  width: 72.72rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .add-view text {
+  position: relative;
+  font-size: 54.54rpx;
+  color: #e4e3e3;
+}
+.zaiui-btn-view {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+.zaiui-btn-view .flex {
+  padding: 18.18rpx;
+}
+

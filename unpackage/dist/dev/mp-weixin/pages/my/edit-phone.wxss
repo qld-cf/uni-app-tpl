@@ -1,0 +1,11 @@
+.cu-form-group {
+  position: relative;
+}
+.cu-form-group input {
+  text-align: right;
+  padding-right: 0;
+}
+.cu-form-group.code .text-btn {
+  margin-left: 27rpx;
+}
+

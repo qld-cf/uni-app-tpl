@@ -1,0 +1,96 @@
+.zaiui-trends.data-v-aeaf0df4 {
+  border-radius: 18.18rpx;
+}
+.zaiui-trends .cu-list .cu-item.data-v-aeaf0df4 {
+  padding-right: 0;
+  height: 99.99rpx;
+}
+.zaiui-trends .cu-list .cu-item .cu-avatar.data-v-aeaf0df4 {
+  left: 0;
+  width: 81.81rpx;
+  height: 81.81rpx;
+}
+.zaiui-trends .cu-list .cu-item .content.data-v-aeaf0df4 {
+  left: 99.99rpx;
+  line-height: 1.5em;
+}
+.zaiui-trends .cu-list .cu-item .action.data-v-aeaf0df4 {
+  width: 154rpx;
+  text-align: right;
+}
+.zaiui-trends .cu-list .cu-item .action .cu-btn.data-v-aeaf0df4:after {
+  border-radius: 18.18rpx;
+}
+.zaiui-trends .cu-list .cu-item .action .cu-btn .cuIcon-add.data-v-aeaf0df4 {
+  font-size: 27rpx;
+}
+.zaiui-trends .cu-list .cu-item.data-v-aeaf0df4:after {
+  width: 0;
+  height: 0;
+  border-bottom: 0;
+}
+.zaiui-trends .zaiui-text-content.data-v-aeaf0df4 {
+  line-height: 1.6;
+}
+.zaiui-trends .zaiui-text-content .cuIcon-right.data-v-aeaf0df4 {
+  position: relative;
+  top: 1rpx;
+}
+.zaiui-trends .zaiui-video-box.data-v-aeaf0df4 {
+  position: relative;
+  width: 100%;
+}
+.zaiui-trends .zaiui-video-box .video-view.data-v-aeaf0df4 {
+  width: 100%;
+  height: 363.63rpx;
+  z-index: 0;
+}
+.zaiui-trends .zaiui-img-grid-col.data-v-aeaf0df4 {
+  position: relative;
+  width: 100%;
+}
+.zaiui-trends .zaiui-img-grid-col .one-img.data-v-aeaf0df4 {
+  position: relative;
+}
+.zaiui-trends .zaiui-img-grid-col .one-img .img-grid.data-v-aeaf0df4 {
+  width: 100%;
+  height: 363.63rpx;
+  border-radius: 9rpx;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.zaiui-trends .zaiui-img-grid-col .col-2 .img-grid-view.data-v-aeaf0df4 {
+  padding: 5.45rpx;
+}
+.zaiui-trends .zaiui-img-grid-col .col-2 .img-grid-view .img-grid.data-v-aeaf0df4 {
+  position: relative;
+  width: 309rpx;
+  height: 218.18rpx;
+  background-size: cover;
+  background-position: center;
+  border-radius: 9rpx;
+}
+.zaiui-trends .zaiui-img-grid-col .col-3 .img-grid-view.data-v-aeaf0df4 {
+  padding: 5.45rpx;
+}
+.zaiui-trends .zaiui-img-grid-col .col-3 .img-grid-view .img-grid.data-v-aeaf0df4 {
+  position: relative;
+  width: 204.79rpx;
+  height: 204.79rpx;
+  background-size: cover;
+  background-position: center;
+  border-radius: 9rpx;
+}
+.zaiui-trends .zaiui-footer-tool.data-v-aeaf0df4 {
+  margin: 40rpx 0 18.18rpx;
+}
+.zaiui-trends .zaiui-footer-tool .margin-right-lg.data-v-aeaf0df4 {
+  margin-right: 94rpx;
+}
+.zaiui-trends .zaiui-footer-tool .icon.data-v-aeaf0df4 {
+  position: relative;
+  font-size: 36.36rpx;
+  top: 4rpx;
+}
+

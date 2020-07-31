@@ -1,0 +1,14 @@
+.zaiui-type-list-box .zaiui-type-list.data-v-c1a389fc {
+  border-radius: 18.18rpx;
+  padding: 9rpx;
+}
+.zaiui-type-list-box .zaiui-type-list .cu-list.menu-avatar > .cu-item .content.data-v-c1a389fc {
+  width: calc(100% - 94rpx - 59rpx - 20rpx);
+  line-height: 1.8em;
+}
+.zaiui-type-list-box .zaiui-type-list .cu-list.menu-avatar > .cu-item.data-v-c1a389fc:after {
+  width: 0;
+  height: 0;
+  border-bottom: 0;
+}
+

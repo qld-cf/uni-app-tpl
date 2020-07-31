@@ -1,0 +1,58 @@
+.zaiui-goods-details-box {
+  position: relative;
+  padding: 27rpx 18.18rpx;
+}
+.zaiui-goods-details-box .cu-avatar {
+  position: absolute;
+  height: 99.99rpx;
+  width: 99.99rpx;
+  left: 18.18rpx;
+}
+.zaiui-goods-details-box .goods-info-view {
+  position: relative;
+  padding-left: 127rpx;
+  height: 99.99rpx;
+  line-height: 1.4;
+}
+.zaiui-goods-details-box .goods-info-view .text-price {
+  position: absolute;
+  bottom: -9rpx;
+  right: 0;
+}
+.zaiui-pay-view {
+  position: relative;
+}
+.zaiui-pay-view .zaiui-pay-bar {
+  position: relative;
+  padding: 18.18rpx;
+}
+.zaiui-pay-view .zaiui-pay-bar .cu-avatar {
+  background-color: #fff;
+  position: absolute;
+  width: 36.36rpx;
+  height: 36.36rpx;
+  top: 25.45rpx;
+}
+.zaiui-pay-view .zaiui-pay-bar .content {
+  position: relative;
+  left: 50.9rpx;
+  width: calc(100% - 127rpx);
+  line-height: 1.8;
+}
+.zaiui-pay-view .zaiui-pay-bar .content .cu-tag {
+  position: relative;
+  top: -3.63rpx;
+}
+.zaiui-pay-view .zaiui-pay-bar .action {
+  position: absolute;
+  right: 21.81rpx;
+  top: 40rpx;
+}
+.zaiui-pay-view .zaiui-pay-bar .action .zaiui-radio {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+.zaiui-pay-view .zaiui-pay-bar + .zaiui-pay-bar {
+  border-top: 2rpx solid rgba(0, 0, 0, 0.1);
+}
+

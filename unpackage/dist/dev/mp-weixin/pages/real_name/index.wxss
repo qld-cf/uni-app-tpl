@@ -1,0 +1,25 @@
+page {
+  background: #FFFFFF;
+}
+.zaiui-status-image-view {
+  position: relative;
+  text-align: center;
+  margin-top: 90.9rpx;
+  margin-bottom: 18.18rpx;
+}
+.zaiui-status-image-view image {
+  width: 472.72rpx;
+}
+.zaiui-content-view {
+  position: relative;
+  padding: 0 72.72rpx;
+}
+.zaiui-btn-view {
+  position: relative;
+  text-align: center;
+  margin-top: 90.9rpx;
+}
+.zaiui-btn-view .cu-btn {
+  padding: 0 45.45rpx;
+}
+

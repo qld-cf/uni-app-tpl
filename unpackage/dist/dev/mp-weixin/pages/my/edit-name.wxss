@@ -1,0 +1,13 @@
+.cu-form-group .title:before {
+  content: "";
+  position: absolute;
+  height: 27rpx;
+  width: 3.63rpx;
+  background: #e6e6e6;
+  top: 16.36rpx;
+  right: 12.72rpx;
+}
+.cu-form-group input {
+  color: #333333;
+}
+

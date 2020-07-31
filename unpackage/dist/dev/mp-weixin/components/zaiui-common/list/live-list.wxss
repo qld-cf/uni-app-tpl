@@ -1,0 +1,69 @@
+.zaiui-live-list-box.data-v-2d57e190 {
+  position: relative;
+  width: 100%;
+  display: none;
+}
+.zaiui-live-list-box .img-itme.data-v-2d57e190 {
+  position: relative;
+  width: 100%;
+}
+.zaiui-live-list-box .img-itme .cover-img.data-v-2d57e190 {
+  width: 100%;
+  border-radius: 3%;
+}
+.zaiui-live-list-box .img-itme .live-tag.data-v-2d57e190, .zaiui-live-list-box .img-itme .live-tag-title.data-v-2d57e190, .zaiui-live-list-box .img-itme .live-time-tag.data-v-2d57e190 {
+  position: absolute;
+  top: 18.18rpx;
+  left: 18.18rpx;
+}
+.zaiui-live-list-box .img-itme .cu-capsule.round.live-tag-title .cu-tag.data-v-2d57e190:last-child, .zaiui-live-list-box .img-itme .cu-capsule.round.live-tag .cu-tag.data-v-2d57e190:last-child {
+  background-color: rgba(14, 14, 14, 0.6);
+  color: #FFFFFF;
+}
+.zaiui-live-list-box .img-itme .live-time-tag.data-v-2d57e190 {
+  background: rgba(14, 14, 14, 0.6);
+}
+.zaiui-live-list-box .img-itme .live-red-tag.data-v-2d57e190 {
+  position: absolute;
+  bottom: 123.63rpx;
+  left: 18.18rpx;
+}
+.zaiui-live-list-box .img-itme .live-title.data-v-2d57e190 {
+  position: absolute;
+  bottom: 72.72rpx;
+  left: 0;
+  width: 100%;
+  padding: 0 18.18rpx;
+  color: #FFFFFF;
+}
+.zaiui-live-list-box .img-itme .live-user-info-box.data-v-2d57e190 {
+  position: absolute;
+  bottom: 18.18rpx;
+  left: 0;
+  width: 100%;
+  color: #FFFFFF;
+}
+.zaiui-live-list-box .img-itme .live-user-info-box .user-box.data-v-2d57e190 {
+  position: relative;
+  width: 100%;
+}
+.zaiui-live-list-box .img-itme .live-user-info-box .user-box .cu-avatar.data-v-2d57e190 {
+  margin-left: 18.18rpx;
+  width: 43.63rpx;
+  height: 43.63rpx;
+}
+.zaiui-live-list-box .img-itme .live-user-info-box .user-box .user-name.data-v-2d57e190 {
+  position: absolute;
+  top: 3.63rpx;
+  width: 145.45rpx;
+  left: 72.72rpx;
+}
+.zaiui-live-list-box .img-itme .live-user-info-box .user-box .live-appreciate.data-v-2d57e190 {
+  position: absolute;
+  top: 3.63rpx;
+  right: 18.18rpx;
+}
+.zaiui-live-list-box.show.data-v-2d57e190 {
+  display: block;
+}
+

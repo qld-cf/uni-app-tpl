@@ -1,0 +1,24 @@
+.zaiui-welcome-tip.data-v-d74b5af0 {
+  background-color: #e54d42;
+  position: relative;
+  width: 100%;
+  z-index: 9;
+  padding-top: 25px;
+  top: calc((25px + 101rpx) - (25px + 101rpx) - (25px + 101rpx));
+  min-height: calc(25px + 101rpx);
+  -webkit-transition: top .25s;
+  transition: top .25s;
+}
+.zaiui-welcome-tip .text-center.data-v-d74b5af0 {
+  position: relative;
+  color: white;
+  width: 100%;
+  font-size: 14px;
+}
+.zaiui-welcome-tip.show.data-v-d74b5af0 {
+  top: 0;
+  min-height: calc(25px + 101rpx);
+  -webkit-transition: top .25s;
+  transition: top .25s;
+}
+

@@ -1,0 +1,62 @@
+.zaiui-img-view {
+  position: relative;
+  padding: 0 29rpx;
+}
+.zaiui-img-view .img-grid-view {
+  position: relative;
+  padding-right: 72.72rpx;
+  padding-bottom: 18.18rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .bg-img {
+  position: relative;
+  border-radius: 3.63rpx;
+  margin-bottom: 27rpx;
+  margin-right: 27rpx;
+  height: 72.72rpx;
+  width: 72.72rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .bg-img .image {
+  border-radius: 3.63rpx;
+  height: 72.72rpx;
+  width: 72.72rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .bg-img .cu-tag {
+  position: absolute;
+  border-radius: 3.63rpx;
+  padding: 0 1.81rpx;
+  height: auto;
+  right: 0;
+  top: 0;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .bg-img .cu-tag text {
+  position: relative;
+  top: 1.81rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .add-view {
+  border: 2rpx solid #efeeee;
+  margin-bottom: 27rpx;
+  border-radius: 3.63rpx;
+  line-height: 72.72rpx;
+  text-align: center;
+  height: 72.72rpx;
+  width: 72.72rpx;
+}
+.zaiui-img-view .img-grid-view .grid.col-5 .add-view text {
+  position: relative;
+  font-size: 54.54rpx;
+  color: #e4e3e3;
+}
+.zaiui-img-view .text-right {
+  position: absolute;
+  right: 29rpx;
+  bottom: 36.36rpx;
+}
+.zaiui-btn-view {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+.zaiui-btn-view .flex {
+  padding: 18.18rpx;
+}
+
